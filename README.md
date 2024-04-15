@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://pleasant-plastic-curiosity.glitch.me/counter" alt="Visitor Count">
 
-![Visitor Count](https://satisfying-eggplant-brazil.glitch.me/count.svg)
+![https://satisfying-eggplant-brazil.glitch.me/count.svg](https://satisfying-eggplant-brazil.glitch.me/count.svg)
 
 ![Visitor Count2](https://pleasant-plastic-curiosity.glitch.me/count)
