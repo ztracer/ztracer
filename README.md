@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://pleasant-plastic-curiosity.glitch.me/counter" alt="Visitor Count">
 
-![Counter](https://pleasant-plastic-curiosity.glitch.me/counter)
+![Visitor Count](https://satisfying-eggplant-brazil.glitch.me/count.svg)
+
+![Visitor Count2](https://pleasant-plastic-curiosity.glitch.me/count)
