@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Visitor Count](https://satisfying-eggplant-brazil.glitch.me/count.svg)
+
+
+![Visitor Count2](https://pleasant-plastic-curiosity.glitch.me/counter)
+
 <!--
 **ztracer/ztracer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://pleasant-plastic-curiosity.glitch.me/counter" alt="Visitor Count">
-
-![https://satisfying-eggplant-brazil.glitch.me/count.svg](https://satisfying-eggplant-brazil.glitch.me/count.svg)
-
-![Visitor Count2](https://pleasant-plastic-curiosity.glitch.me/count)
+<img src="https://pleasant-plastic-curiosity.glitch.me/counter">
+<img src="https://satisfying-eggplant-brazil.glitch.me/count.svg">
