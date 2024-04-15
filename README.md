@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://satisfying-eggplant-brazil.glitch.me/count.svg)
+<img src="https://pleasant-plastic-curiosity.glitch.me/counter?timestamp=123456789" alt="Visitor Count">
 
 
 ![Visitor Count2](https://pleasant-plastic-curiosity.glitch.me/counter)
