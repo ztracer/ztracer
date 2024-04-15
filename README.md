@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://pleasant-plastic-curiosity.glitch.me/counter?timestamp=123456789" alt="Visitor Count">
+<img src="https://pleasant-plastic-curiosity.glitch.me/counter" alt="Visitor Count">
 
 
 ![Visitor Count2](https://pleasant-plastic-curiosity.glitch.me/counter)
