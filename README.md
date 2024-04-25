@@ -4,4 +4,6 @@
 
 ![Visitor Count2](https://pleasant-plastic-curiosity.glitch.me/counter)
 
+here is my [blog](ztracer.github.io)
+
 
